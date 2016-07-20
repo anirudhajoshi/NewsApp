@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="invalidurl">Unable to retrieve web page. URL may be invalid</string>
+    <string name="nosectionname">No section name</string>
+    <string name="nowebtitle">No web title</string>
+    <string name="noweburl">No web url</string>
+    <string name="noimageurl">No image url</string>
+    <string name="noitemsfound">There were no news items found. Please try another search...</string>
+
+</resources>
